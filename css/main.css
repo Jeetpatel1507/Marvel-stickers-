@@ -116,3 +116,7 @@ footer {
   height: 80px;
   background-color: rgb(40, 37, 37);
 }
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
